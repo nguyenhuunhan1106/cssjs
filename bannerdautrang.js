@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://1.bp.blogspot.com/-55G1xqOuxig/W2MU0d8Z_PI/AAAAAAAAFUc/oXbYUa57ZfAI0T7wtau1AizCCXbjrJhqwCLcBGAs/s1600/Capture.JPG' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='v' width='500px'/><br/>Hãy liên hệ với chúng tôi để được tư vấn</a>.0899631050 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
