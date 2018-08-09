@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://docs.google.com/forms/d/e/1FAIpQLSfTSEfl_TmsE8fo2UwsTA-LSZw9Rr4WatcwXhSPuJS9czL2VQ/viewform' target='_blank'><img src='https://3.bp.blogspot.com/-M6dLdYWy2tA/W2Wy50MIiAI/AAAAAAAAFVE/5RqrG7-zxlwlfYkT0dM_GB8Ady5iqGeCACLcBGAs/s1600/images.png' width='500px'/><br/>Hãy liên hệ với chúng tôi để được tư vấn</a>.0899631050 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://docs.google.com/forms/d/e/1FAIpQLSfTSEfl_TmsE8fo2UwsTA-LSZw9Rr4WatcwXhSPuJS9czL2VQ/viewform' target='_blank'><img src='https://3.bp.blogspot.com/-M6dLdYWy2tA/W2Wy50MIiAI/AAAAAAAAFVE/5RqrG7-zxlwlfYkT0dM_GB8Ady5iqGeCACLcBGAs/s1600/images.png' width='500px'/><br/>Hãy liên hệ với chúng tôi để được tư vấn: </a>.HOTLINE: 0899631050 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
